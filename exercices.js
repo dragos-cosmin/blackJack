@@ -114,3 +114,6 @@ console.log(countries)
 let hands=["rock","paper","scissor"]
 
 console.log(hands[Math.floor(Math.random()*3)])
+
+console.log("some changes are made")
+
